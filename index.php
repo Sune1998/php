@@ -1,5 +1,5 @@
 <?php
-echo "hej";
-echo "fuck";
-echo "det virker";
+echo "hej<br>";
+echo "fuck<br>";
+echo "det virker<br>";
 ?>
