@@ -7,6 +7,9 @@
     <link href="style.css" media="all" rel="stylesheet" type="text/css">
     <title>hjemmeside</title>
 </head>
+<header>
+<h1>hej med dig <h1>
+</header>
 <body>
     <p>oh yeah it all comming together</p>
 </body>
